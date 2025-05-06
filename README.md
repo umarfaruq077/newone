@@ -1,2 +1,2 @@
 # newone
-its my first repi
+its my first repoo
